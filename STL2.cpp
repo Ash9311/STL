@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 ********************** NOTE ***************************
 // The lines are solely written for explanation
 // purpose. They will not compile. Reuse of
